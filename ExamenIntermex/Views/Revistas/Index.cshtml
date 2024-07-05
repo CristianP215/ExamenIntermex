@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ExamenIntermex.Models.Revista>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Revistas Añadidas</h2>
+
+<p>
+    @Html.ActionLink("Añadir", "Create","" , new {@class= "btn btn-success"})
+</p>
+<table class="table">
+    <tr style="text-align:center" >
+        <th>
+            @Html.DisplayNameFor(model => model.id_revista)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Edicion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoBarras)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaPublicacion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Categoria_Id)
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr style="text-align:center">
+        <td>
+            @Html.DisplayFor(modelItem => item.id_revista)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Edicion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoBarras)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Precio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaPublicacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categoria_Id)
+        </td>
+        <td style="text-align:center">
+            @Html.ActionLink("Editar", "Edit", new { id=item.id_revista }, new { @class = "btn btn-warning" }) 
+            @Html.ActionLink("Detalles", "Details", new { id = item.id_revista }, new { @class = "btn btn-primary" }) 
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.id_revista }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

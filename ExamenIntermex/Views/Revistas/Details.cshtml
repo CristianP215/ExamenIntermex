@@ -1,0 +1,82 @@
+﻿@model ExamenIntermex.Models.Revista
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Revista</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.id_revista)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_revista)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Edicion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Edicion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoBarras)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoBarras)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaPublicacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaPublicacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria_Id)
+        </dd>
+
+    </dl>
+</div>
+<p>
+ 
+    @Html.ActionLink("Regresar", "Index")
+</p>

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|c:\\users\\kriss\\desktop\\crud_intermex\\examenintermex\\examenintermex\\views\\revistas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\views\\revistas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\views\\revistas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\views\\revistas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\views\\revistas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\views\\revistas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\views\\revistas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\views\\revistas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\controllers\\revistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\controllers\\revistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\models\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\models\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\examenintermex\\views\\revistas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D4419D-DD51-41BD-A58C-8FEF8FE46E14}|ExamenIntermex\\ExamenIntermex.csproj|solutionrelative:examenintermex\\views\\revistas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Views\\Revistas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Index.cshtml",
+              "RelativeToolTip": "ExamenIntermex\\Views\\Revistas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T20:59:27.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RevistasController.cs",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Controllers\\RevistasController.cs",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Controllers\\RevistasController.cs",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Controllers\\RevistasController.cs",
+              "RelativeToolTip": "ExamenIntermex\\Controllers\\RevistasController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvx0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:37:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Models\\Revista.cs",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Models\\Revista.cs",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Models\\Revista.cs",
+              "RelativeToolTip": "ExamenIntermex\\Models\\Revista.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:36:51.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Views\\Revistas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Delete.cshtml",
+              "RelativeToolTip": "ExamenIntermex\\Views\\Revistas\\Delete.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:07:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Views\\Revistas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Details.cshtml",
+              "RelativeToolTip": "ExamenIntermex\\Views\\Revistas\\Details.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:05:58.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Views\\Revistas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Edit.cshtml",
+              "RelativeToolTip": "ExamenIntermex\\Views\\Revistas\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:07:09.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamenIntermex\\Views\\Revistas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kriss\\Desktop\\Crud_Intermex\\ExamenIntermex\\ExamenIntermex\\Views\\Revistas\\Create.cshtml",
+              "RelativeToolTip": "ExamenIntermex\\Views\\Revistas\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:06:18.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
